@@ -20,7 +20,7 @@ const hours = 4;
 
 // console.log(403);
 
-const money = 835;
+// const money = 835;
 // console.log(money);
 
 // --- Practice - 2 ---
@@ -152,4 +152,51 @@ const discountedPrice = newPrice - 10;
 const earnMoney = 100;
 const useMoney = 40;
 const theMoneyIHave = earnMoney - useMoney;
-console.log(theMoneyIHave);
+// console.log(theMoneyIHave);
+
+const pencil = 10;
+const useOfPencil = 2;
+const totalUse = pencil / useOfPencil;
+// console.log(totalUse);
+
+const money = 60;
+const useMoneyOnly = 15;
+const totalUse2 = money / useMoneyOnly;
+// console.log(totalUse2);
+
+const firstWord = "Hello";
+const secondWord = "World";
+const totalWord = firstWord + secondWord;
+// console.log(totalWord);
+
+const riceAmount = 153;
+const dallAmount = 261;
+const totalAmount = riceAmount + dallAmount;
+// console.log(totalAmount);
+
+const iHave = 500;
+const iCanUseEachTime = 75;
+const theTimeICanUseThatMoney = iHave / iCanUseEachTime;
+// console.log(theTimeICanUseThatMoney);
+
+const firstNumber = 8;
+const secondNumber = 3;
+const remainder = firstNumber % secondNumber;
+const division = firstNumber / secondNumber;
+// console.log(division, remainder);
+
+const firstNumber1 = 50;
+const secondNumber2 = 9;
+const remainder2 = firstNumber1 % secondNumber2;
+// console.log(remainder2);
+
+const firstWord1 = 'Bangla';
+const secondWord2 = 'desh';
+const totalWord2 = firstWord1 + secondWord2;
+// console.log(totalWord2);
+
+const totalRice = 480;
+const iEat = 4;
+const theTotalDayICanUseRice = totalRice / iEat;
+const month = totalRice / 30;
+// console.log(theTotalDayICanUseRice, month);
