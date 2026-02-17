@@ -10,7 +10,7 @@ const balance = 2000;
 const age = 14;
 
 // --- Practice - 1 ---
-// --- Total - 7 Problem ---
+// --- Total - 7 Problem (Solved) ---
 
 const birthYear = 2002;
 const brotherAndSisters = 3;
