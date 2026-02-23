@@ -18,9 +18,9 @@ const class1 = 45;
 const class2 = 50;
 
 if (class1 > class2) {
-    console.log("class1 have more student then class2")
+    console.log("class1 have more student then class2");
 } else {
-    console.log("class2 have more student then class1")
+    console.log("class2 have more student then class1");
 }
 
 // ---------------------------------------------------
