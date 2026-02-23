@@ -7,9 +7,9 @@ const brother1 = 7;
 const brother2 = 5;
 
 if (brother1 > brother2) {
-    console.log("Brother 1 Eat the most sandwich");
+    console.log("Brother 1 eats the most sandwiches");
 } else {
-    console.log("Brother 2 Eat the most sandwich")
+    console.log("Brother 2 eats the most sandwiches");
 }
 
 // ---------------------------------------------------
