@@ -55,14 +55,6 @@ if (bookPage > 500) {
     console.log("Small book");
 }
 
-// if (){
-//     console.log()
-// } else if (){
-//     console.log()
-// } else {
-//     console.log()
-// }
-
 const temperature = 15;
 if (temperature > 20) {
     console.log("Hot Hot")
